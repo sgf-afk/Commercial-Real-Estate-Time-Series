@@ -6,3 +6,5 @@ or selling commercial real estate in Gainesville, FL.
 
 Following up on the index I've created some visualizations using plotly maps, run some test predictions using supervised learning, and 
 used unsupervised learning to detect additional trends in the market.
+
+[Quick access to summary report and findings](https://github.com/sgf-afk/Commercial-Real-Estate-Time-Series/blob/master/Forecasting_Commercial_Value.pdf)
